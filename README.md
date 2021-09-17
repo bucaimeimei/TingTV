@@ -1,6 +1,6 @@
 # TingTV
 
-### 学习目标
+# 学习目标
 
 1.了解分布式存储基础知识  
 
@@ -10,12 +10,14 @@
 
 4.了解TiKV的基本架构设计
 
-### Prerequisites
+# Prerequisites
 
 完成 A Tour of Go 的学习
 
 完成 TP 102: How to Use Git and GitHub 的学习
 
-### 推荐课程/学习资料
+# 推荐课程/学习资料
 
 TP 302: TinyKV, a distributed key value database in Go
+
+B站论文讲解 https://www.bilibili.com/video/BV1CK4y127Lj?p=2&spm_id_from=pageDriver
