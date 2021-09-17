@@ -20,4 +20,4 @@
 
 [TP 302: TinyKV, a distributed key value database in Go](https://github.com/tidb-incubator/tinykv)
 
-B站论文讲解 https://www.bilibili.com/video/BV1CK4y127Lj?p=2&spm_id_from=pageDriver
+[B站论文讲解](https://www.bilibili.com/video/BV1CK4y127Lj?p=2&spm_id_from=pageDriver)
